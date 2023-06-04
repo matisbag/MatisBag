@@ -1,5 +1,5 @@
 ### Hi, I'm Matis
 
-- 🔭 I currently often work on Vue.js and Laravel;
-- 🌱 I’m currently learning : React, Node.Js;
+- 💻 [Developer](https://matisbaguelin.fr/) specializing in Vue.js, React and Laravel;
+- 🌱 Always learning;
 - 📫 How to reach me: [email](mailto:matis.baguelin@gmail.com);
