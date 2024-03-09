@@ -1,5 +1,5 @@
 ### Hi, I'm Matis
 
-- 💻 [Developer](https://matisbaguelin.fr/) specializing in Vue.js, React and Laravel;
+- 💻 Developer specializing in TypeScript, Typesafe development, end-to-end testing, and related technologies;
 - 🌱 Always learning;
 - 📫 How to reach me: [email](mailto:matis.baguelin@gmail.com);
